@@ -9,19 +9,6 @@ This project implements a machine learning system to predict rainfall based on w
 - `train.py`: Main script to train and evaluate the model.
 - `requirements.txt`: List of dependencies.
 
-## Setup
-
-1. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 Run the training script to generate synthetic data and train the model:
